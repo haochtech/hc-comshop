@@ -1,0 +1,6 @@
+[submodule "hc-comshop-admin"]
+	path = hc-comshop-admin
+	url = https://github.com/haochtech/hc-comshop-admin.git
+[submodule "hc-comshop-wx"]
+	path = hc-comshop-wx
+	url = https://github.com/haochtech/hc-comshop-wx.git
